@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Ahmad Shuaib (drxzx7)
 
-<!--
-**drxzx7/drxzx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Developer | Spring Boot & Microservices
 
-Here are some ideas to get you started:
+Passionate about building robust, scalable backend systems and solving complex algorithmic problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Languages:** C, C++, Python, Java
+- **Backend:** Spring Boot, REST APIs, Microservices
+- **Databases:** MySQL, JDBC, DAO, DBMS
+
+### 📊 Competitive Programming Profiles
+- [LeetCode](https://leetcode.com/u/x_drxzx_x/)
+- [HackerRank](https://www.hackerrank.com/profile/mssdkkl)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-shuaib-75543037a/)
+
+---
+
+*🚧 This profile is currently under construction. More projects and features coming soon!*
