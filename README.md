@@ -1,33 +1,25 @@
-<!-- ============================================ -->
-<!--                   BANNER                      -->
-<!-- ============================================ -->
-<p align="center">
-  <img src="https://via.placeholder.com/1280x320/1A1A2E/8B5CF6?text=Ahmad+Shuaib+%7C+Backend+%26+AI+Developer" width="100%" />
-</p>
+# 👋 Hello, I'm Ahmad Shuaib (drxzx7)
 
-<!-- ============================================ -->
-<!--             TYPING ANIMATION                  -->
-<!-- ============================================ -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Backend+%26+AI+Developer;Spring+Boot+%26+Microservices;REST+API+Architect;Make.com+%26+Canva+AI+Enthusiast" />
-  </a>
-</p>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%26+Microservices;Problem+Solver+%7C+C%2C+C%2B%2B%2C+Java%2C+Python;Building+Scalable+Systems)](https://git.io/typing-svg)
 
-<!-- ============================================ -->
-<!--            PROFILE VIEWS + BADGES             -->
-<!-- ============================================ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drxzx7&color=8B5CF6&style=flat-square&label=Profile+Views" />
-</p>
+## 🚀 About Me
+Passionate about building robust, scalable backend systems and solving complex algorithmic problems.
+
+## 💻 Tech Stack
+- **Languages:** C, C++, Python, Java
+- **Backend:** Spring Boot, REST APIs, Microservices
+- **Databases:** MySQL, JDBC, DAO, DBMS
+
+## 📊 LeetCode Progress
+<!-- Live LeetCode Stats Card -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/x_drxzx_x?theme=dark)](https://leetcode.com/u/x_drxzx_x/)
+
+## 📊 Competitive Programming Profiles
+- [LeetCode](https://leetcode.com/u/x_drxzx_x/)
+- [HackerRank](https://www.hackerrank.com/profile/mssdkkl)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-shuaib-75543037a/)
 
 ---
 
-### 👋 About Me
-
-I'm a **Backend & AI Developer** who builds scalable systems with **Spring Boot** and crafts seamless **REST APIs**. I automate workflows with **Make.com** and design UI/UX prototypes with **Canva AI**.
-
-```text
-🔭 Building   : Production-grade microservices
-🌱 Learning   : Event-driven architectures & AI/ML
-💡 Philosophy : Clean code = clean design = clean systems
+*🚧 This profile is currently under construction. More projects and features coming soon!*
