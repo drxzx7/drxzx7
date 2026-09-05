@@ -16,8 +16,8 @@
 
 I'm a passionate **Backend Developer** who loves crafting clean, robust, and scalable systems. I enjoy diving deep into algorithms, data structures, and system design to solve real-world problems. I've recently started exploring **React.js** to bridge the gap between powerful backends and interactive frontends.
 
-- 🔭 I’m currently working on **Spring Boot Microservices** & RESTful APIs  
-- 🌱 I’m exploring **Cloud Native**, **DevOps**, and **React.js**  
+- 🔭 I'm currently working on **Spring Boot Microservices** & RESTful APIs  
+- 🌱 I'm exploring **Cloud Native**, **DevOps**, and **React.js**  
 - 💬 Ask me about **Java, Spring Boot, C/C++, Python, and DBMS**  
 - 🎯 2026 Goals: Contribute more to open-source and build a full-scale SaaS product  
 - ⚡ Fun fact: I debug with `SpringBoot projects` and still get goosebumps when `git push` succeeds  
@@ -72,17 +72,16 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 <!-- LANGUAGES & TOOLS - SPLIT INTO TWO LINES (v & viii) -->
 ## 🛠️ Languages & Tools
 
-<!-- Line 1: Backend, Core Languages & Databases -->
+<!-- Line 1: Backend, Core Languages & Databases (postgres removed → html added at 7th position) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,mysql,postgres,mongodb,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,mysql,html,mongodb,docker,aws" />
   </a>
 </p>
 
 <!-- Line 2: Frontend, Version Control, IDEs & Platforms -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Eclipse icon added at the end of this line -->
     <img src="https://skillicons.dev/icons?i=react,git,postman,linux,vscode,idea,eclipse" />
   </a>
 </p>
