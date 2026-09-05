@@ -28,23 +28,43 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 ## 🔗 Connect & Profiles
 
 <p align="center">
-  <a href="https://drxzx7.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://drxzx7.github.io" target="_blank" title="Portfolio">
+    <img
+      src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
+      alt="Portfolio"
+      height="34"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/ahmad-shuaib-75543037a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ahmad-shuaib-75543037a/" target="_blank" title="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      height="34"
+    />
   </a>
-  <a href="https://leetcode.com/u/x_drxzx_x/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+  <a href="https://leetcode.com/u/x_drxzx_x/" target="_blank" title="LeetCode">
+    <img
+      src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06"
+      alt="LeetCode"
+      height="34"
+    />
   </a>
-  <a href="https://www.hackerrank.com/profile/mssdkkl" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  <a href="https://www.hackerrank.com/profile/mssdkkl" target="_blank" title="HackerRank">
+    <img
+      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+      alt="HackerRank"
+      height="34"
+    />
   </a>
 </p>
 
 <!-- LeetCode Stats Card -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/x_drxzx_x?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  <img
+    src="https://leetcard.jacoblin.cool/x_drxzx_x?theme=dark&font=Baloo%202&ext=heatmap"
+    alt="LeetCode Stats"
+    style="max-width: 100%; height: auto;"
+  />
 </p>
 
 ---
@@ -96,7 +116,7 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- CONTRIBUTION GRAPH (ix) - MORE RELIABLE + VISIBLE -->
+<!-- CONTRIBUTION GRAPH (ix) -->
 ## 📊 Contribution Graph
 
 <p align="center">
@@ -111,21 +131,15 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- VISITOR BADGE (x) - FALLBACK + PRIMARY -->
+<!-- VISITOR BADGE (x) - FIXED & VISIBLE -->
 ## 👀 Visitor Count
 
 <p align="center">
-  <!-- Primary counter -->
+  <strong>Profile views:</strong>
+  <br />
   <img
     src="https://komarev.com/profile/drxzx7"
     alt="Profile views"
-  />
-  <!-- Fallback counter (optional, shows if first fails) -->
-  <br />
-  <img
-    src="https://profile-counter.glitch.me/drxzx7/count.svg"
-    alt="visitor badge fallback"
-    style="margin-top: 8px;"
   />
 </p>
 
