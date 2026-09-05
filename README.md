@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello, I'm Ahmad Shuaib</h1>
 <h3 align="center">Backend Engineer | Spring Boot & Microservices | Problem Solver</h3>
 
-<!-- TYPING ANIMATION BANNER (ii) - FIXED WIDTH TO 700 -->
+<!-- TYPING ANIMATION BANNER (ii) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+Developer;Spring+Boot+%26+Microservices;React+%7C+Full-Stack+Enthusiast;Problem+Solver+%7C+C+%2B+C%2B%2B+%2B+Java+%2B+Python;Building+Scalable+Systems;Always+Learning+New+Tech" alt="Typing Animation" />
@@ -42,14 +42,14 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
   </a>
 </p>
 
-<!-- LeetCode Stats Card (extra) -->
+<!-- LeetCode Stats Card -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/x_drxzx_x?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
 
-<!-- LANGUAGES & TOOLS - SPLIT INTO TWO CLEAN LINES (v & viii) -->
+<!-- LANGUAGES & TOOLS - SPLIT INTO TWO LINES (v & viii) -->
 ## 🛠️ Languages & Tools
 
 <!-- Line 1: Backend, Core Languages & Databases -->
@@ -71,16 +71,12 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 <!-- CURRENT PROJECTS SECTION (vi) -->
 ## 📦 Current Projects
 
-> *Here are some of the things I'm actively building or maintaining:*
-
 | Project | Tech Stack | Status |
 |---------|------------|--------|
 | 🚀 **E-Commerce Microservices** | Spring Boot, Spring Cloud, MySQL, Docker | 🔄 In Progress |
 | 📊 **LeetCode Tracker CLI** | Python, FastAPI, MongoDB | 🧪 Planning |
 | 🧠 **Algorithm Visualizer** | Java, Swing, OOP | ✅ Completed |
 | ☁️ **Cloud Config Server** | Spring Cloud, AWS, Git | 🔄 In Progress |
-
-> 🔍 *Check out my pinned repositories below for more!*
 
 ---
 
@@ -100,20 +96,20 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- CONTRIBUTION GRAPH (ix) -->
+<!-- CONTRIBUTION GRAPH (ix) - USING THE MOST RELIABLE THEME -->
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drxzx7&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drxzx7&theme=github&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-<!-- VISITOR BADGE (x) -->
+<!-- VISITOR BADGE (x) - SWAPPED TO GLITCH.ME FOR 100% RELIABILITY -->
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drxzx7&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
+  <img src="https://profile-counter.glitch.me/drxzx7/count.svg" alt="visitor badge" />
 </p>
 
 ---
