@@ -2,10 +2,10 @@
 <h1 align="center">👋 Hello, I'm Ahmad Shuaib</h1>
 <h3 align="center">Backend Engineer | Spring Boot & Microservices | Problem Solver</h3>
 
-<!-- TYPING ANIMATION BANNER (ii) -->
+<!-- TYPING ANIMATION BANNER (ii) - FIXED WIDTH TO 700 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%26+Microservices;Problem+Solver+%7C+C+%2B+C%2B%2B+%2B+Java+%2B+Python;Building+Scalable+Systems;Always+Learning+New+Tech" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+Developer;Spring+Boot+%26+Microservices;React+%7C+Full-Stack+Enthusiast;Problem+Solver+%7C+C+%2B+C%2B%2B+%2B+Java+%2B+Python;Building+Scalable+Systems;Always+Learning+New+Tech" alt="Typing Animation" />
   </a>
 </p>
 
@@ -14,10 +14,10 @@
 <!-- ABOUT ME SECTION (iii) -->
 ## 🧑‍💻 About Me
 
-I'm a passionate **Backend Developer** who loves crafting clean, robust, and scalable systems. I enjoy diving deep into algorithms, data structures, and system design to solve real-world problems.
+I'm a passionate **Backend Developer** who loves crafting clean, robust, and scalable systems. I enjoy diving deep into algorithms, data structures, and system design to solve real-world problems. I've recently started exploring **React.js** to bridge the gap between powerful backends and interactive frontends.
 
 - 🔭 I’m currently working on **Spring Boot Microservices** & RESTful APIs
-- 🌱 I’m exploring **Cloud Native** & **DevOps** practices
+- 🌱 I’m exploring **Cloud Native**, **DevOps**, and **React.js**
 - 💬 Ask me about **Java, Spring Boot, C/C++, Python, and DBMS**
 - 🎯 2026 Goals: Contribute more to open-source and build a full-scale SaaS product
 - ⚡ Fun fact: I debug with `print()` and still get goosebumps when `git push` succeeds
@@ -49,12 +49,20 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- LANGUAGES & TOOLS (v & viii) - EXACTLY LIKE YOUR FRIEND'S README -->
+<!-- LANGUAGES & TOOLS - SPLIT INTO TWO CLEAN LINES (v & viii) -->
 ## 🛠️ Languages & Tools
 
+<!-- Line 1: Backend, Core Languages & Databases -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,mysql,postgres,mongodb,docker,aws,git,postman,linux,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,mysql,postgres,mongodb,docker,aws" />
+  </a>
+</p>
+
+<!-- Line 2: Frontend, Version Control, IDEs & Platforms -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,git,postman,linux,vscode,idea" />
   </a>
 </p>
 
@@ -96,7 +104,7 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drxzx7&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drxzx7&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
