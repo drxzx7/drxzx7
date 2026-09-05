@@ -28,7 +28,6 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 ## 🔗 Connect & Profiles
 
 <p align="center">
-  <!-- Portfolio -->
   <a href="https://drxzx7.github.io" target="_blank" title="Portfolio">
     <img
       src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
@@ -36,26 +35,20 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
       height="34"
     />
   </a>
-
-  <!-- LinkedIn (box icon) -->
   <a href="https://www.linkedin.com/in/ahmad-shuaib-75543037a/" target="_blank" title="LinkedIn">
     <img
-      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
       height="34"
     />
   </a>
-
-  <!-- LeetCode (box icon) -->
   <a href="https://leetcode.com/u/x_drxzx_x/" target="_blank" title="LeetCode">
     <img
-      src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06"
+      src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06"
       alt="LeetCode"
       height="34"
     />
   </a>
-
-  <!-- HackerRank (box icon) -->
   <a href="https://www.hackerrank.com/profile/mssdkkl" target="_blank" title="HackerRank">
     <img
       src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
