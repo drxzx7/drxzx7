@@ -72,14 +72,14 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 <!-- LANGUAGES & TOOLS - SPLIT INTO TWO LINES (v & viii) -->
 ## 🛠️ Languages & Tools
 
-<!-- Line 1: Backend, Core Languages & Databases (postgres removed → html added at 7th position) -->
+<!-- Line 1: Languages → Framework → Databases → DevOps (sorted aesthetically) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,mysql,html,mongodb,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,spring,mysql,mongodb,docker,aws" />
   </a>
 </p>
 
-<!-- Line 2: Frontend, Version Control, IDEs & Platforms -->
+<!-- Line 2: Frontend → Version Control → Utilities → IDEs (sorted aesthetically) -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,git,postman,linux,vscode,idea,eclipse" />
@@ -127,5 +127,17 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
   />
 </p>
 
+> If the graph doesn't load immediately, refresh the README on GitHub after a few minutes. The chart caches based on your commit activity.
 
 ---
+
+<!-- VISITOR BADGE (x) -->
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/drxzx7/count.svg" alt="visitor badge" />
+</p>
+
+---
+
+🚧 *This README is a living document — I update it as I grow and build more cool stuff!*
