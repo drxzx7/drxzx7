@@ -100,12 +100,13 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- GITHUB STATS CARDS (vii) -->
+<!-- GITHUB STATS CARDS (vii) - FIXED: REMOVED UNEXPECTED ICONS -->
 ## 📈 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/drxzx7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drxzx7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <!-- Removed 'show_icons=true' to hide the star/fork icons inside the card body -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drxzx7&theme=radical&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drxzx7&layout=compact&langs_count=8&theme=radical" />
   </a>
 </p>
@@ -128,4 +129,6 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 </p>
 
 
+
 ---
+
