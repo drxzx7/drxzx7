@@ -131,18 +131,3 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- VISITOR BADGE (x) - FIXED & VISIBLE -->
-## 👀 Visitor Count
-
-<p align="center">
-  <strong>Profile views:</strong>
-  <br />
-  <img
-    src="https://komarev.com/profile/drxzx7"
-    alt="Profile views"
-  />
-</p>
-
----
-
-🚧 *This README is a living document — I update it as I grow and build more cool stuff!*
