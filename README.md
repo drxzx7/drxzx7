@@ -1,25 +1,143 @@
-# 👋 Hello, I'm Ahmad Shuaib
+<!-- INTRO SECTION (i) -->
+<h1 align="center">👋 Hello, I'm Ahmad Shuaib</h1>
+<h3 align="center">Backend Engineer | Spring Boot & Microservices | Problem Solver</h3>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%26+Microservices;Problem+Solver+%7C+C%2C+C%2B%2B%2C+Java%2C+Python;Building+Scalable+Systems)](https://git.io/typing-svg)
-
-## 🚀 About Me
-Passionate about building robust, scalable backend systems and solving complex algorithmic problems.
-
-## 💻 Tech Stack
-- *Languages:* C, C++, Python, Java
-- *Backend:* Spring Boot, REST APIs, Microservices
-- *Databases:* MySQL, JDBC, DAO, DBMS
-
-## 📊 LeetCode Progress
-<!-- Live LeetCode Stats Card -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/x_drxzx_x?theme=dark)](https://leetcode.com/u/x_drxzx_x/)
-
-## 📊 Competitive Programming Profiles
-- [LeetCode](https://leetcode.com/u/x_drxzx_x/)
-- [HackerRank](https://www.hackerrank.com/profile/mssdkkl)
-- [LinkedIn](https://www.linkedin.com/in/ahmad-shuaib-75543037a/)
+<!-- TYPING ANIMATION BANNER (ii) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%26+Microservices;Problem+Solver+%7C+C+%2B+C%2B%2B+%2B+Java+%2B+Python;Building+Scalable+Systems;Always+Learning+New+Tech" alt="Typing Animation" />
+  </a>
+</p>
 
 ---
 
-🚧 This profile is currently under construction. More projects and features coming soon!
+<!-- ABOUT ME SECTION (iii) -->
+## 🧑‍💻 About Me
+
+I'm a passionate **Backend Developer** who loves crafting clean, robust, and scalable systems. I enjoy diving deep into algorithms, data structures, and system design to solve real-world problems.
+
+- 🔭 I’m currently working on **Spring Boot Microservices** & RESTful APIs
+- 🌱 I’m exploring **Cloud Native** & **DevOps** practices
+- 💬 Ask me about **Java, Spring Boot, C/C++, Python, and DBMS**
+- 🎯 2026 Goals: Contribute more to open-source and build a full-scale SaaS product
+- ⚡ Fun fact: I debug with `print()` and still get goosebumps when `git push` succeeds
+
+---
+
+<!-- BADGES : PORTFOLIO + LINKEDIN + LEETCODE + HACKERRANK (iv) -->
+## 🔗 Connect & Profiles
+
+<p align="center">
+  <a href="https://drxzx7.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-shuaib-75543037a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/x_drxzx_x/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/mssdkkl" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+<!-- LeetCode Stats Card (extra) -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/x_drxzx_x?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+<!-- TECH STACK ICONS (v) -->
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br />
+  <!-- Backend Frameworks -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
+  <br />
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br />
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+<!-- TOOLS SECTION (viii) -->
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+---
+
+<!-- CURRENT PROJECTS SECTION (vi) -->
+## 📦 Current Projects
+
+> *Here are some of the things I'm actively building or maintaining:*
+
+| Project | Tech Stack | Status |
+|---------|------------|--------|
+| 🚀 **E-Commerce Microservices** | Spring Boot, Spring Cloud, MySQL, Docker | 🔄 In Progress |
+| 📊 **LeetCode Tracker CLI** | Python, FastAPI, MongoDB | 🧪 Planning |
+| 🧠 **Algorithm Visualizer** | Java, Swing, OOP | ✅ Completed |
+| ☁️ **Cloud Config Server** | Spring Cloud, AWS, Git | 🔄 In Progress |
+
+> 🔍 *Check out my pinned repositories below for more!*
+
+---
+
+<!-- GITHUB STATS CARDS (vii) -->
+## 📈 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/drxzx7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drxzx7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drxzx7&layout=compact&langs_count=8&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drxzx7&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- CONTRIBUTION GRAPH (ix) -->
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drxzx7&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<!-- VISITOR BADGE (x) -->
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=drxzx7&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
+</p>
+
+---
+
+🚧 *This README is a living document — I update it as I grow and build more cool stuff!*
