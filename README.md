@@ -127,6 +127,5 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
   />
 </p>
 
-> If the graph doesn't load immediately, refresh the README on GitHub after a few minutes. The chart caches based on your commit activity.
 
 ---
