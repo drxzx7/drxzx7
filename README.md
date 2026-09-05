@@ -20,7 +20,7 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 - 🌱 I’m exploring **Cloud Native**, **DevOps**, and **React.js**  
 - 💬 Ask me about **Java, Spring Boot, C/C++, Python, and DBMS**  
 - 🎯 2026 Goals: Contribute more to open-source and build a full-scale SaaS product  
-- ⚡ Fun fact: I debug with `print()` and still get goosebumps when `git push` succeeds  
+- ⚡ Fun fact: I debug with `SpringBoot projects` and still get goosebumps when `git push` succeeds  
 
 ---
 
