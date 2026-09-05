@@ -130,14 +130,3 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 > If the graph doesn't load immediately, refresh the README on GitHub after a few minutes. The chart caches based on your commit activity.
 
 ---
-
-<!-- VISITOR BADGE (x) -->
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/drxzx7/count.svg" alt="visitor badge" />
-</p>
-
----
-
-🚧 *This README is a living document — I update it as I grow and build more cool stuff!*
