@@ -130,4 +130,16 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 
 ---
+<!-- CONTRIBUTION SNAKE (x) -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/drxzx7/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+    style="max-width: 100%; height: auto;"
+  />
+</p>
+
+> The snake “eats” your contribution graph from left to right. It updates automatically via a GitHub Action in your repo.
 
