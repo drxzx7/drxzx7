@@ -16,8 +16,8 @@
 
 I'm a passionate **Backend Developer** who loves crafting clean, robust, and scalable systems. I enjoy diving deep into algorithms, data structures, and system design to solve real-world problems. I've recently started exploring **React.js** to bridge the gap between powerful backends and interactive frontends.
 
-- 🔭 I’m currently working on **Spring Boot Microservices** & RESTful APIs  
-- 🌱 I’m exploring **Cloud Native**, **DevOps**, and **React.js**  
+- 🔭 I'm currently working on **Spring Boot Microservices** & RESTful APIs  
+- 🌱 I'm exploring **Cloud Native**, **DevOps**, and **React.js**  
 - 💬 Ask me about **Java, Spring Boot, C/C++, Python, and DBMS**  
 - 🎯 2026 Goals: Contribute more to open-source and build a full-scale SaaS product  
 - ⚡ Fun fact: I debug with `print()` and still get goosebumps when `git push` succeeds  
@@ -29,61 +29,47 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 <p align="center">
   <a href="https://drxzx7.github.io" target="_blank" title="Portfolio">
-    <img
-      src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
-      alt="Portfolio"
-      height="34"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="34" />
   </a>
   <a href="https://www.linkedin.com/in/ahmad-shuaib-75543037a/" target="_blank" title="LinkedIn">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      height="34"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34" />
   </a>
   <a href="https://leetcode.com/u/x_drxzx_x/" target="_blank" title="LeetCode">
-    <img
-      src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06"
-      alt="LeetCode"
-      height="34"
-    />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" alt="LeetCode" height="34" />
   </a>
   <a href="https://www.hackerrank.com/profile/mssdkkl" target="_blank" title="HackerRank">
-    <img
-      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
-      alt="HackerRank"
-      height="34"
-    />
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="34" />
   </a>
 </p>
 
 <!-- LeetCode Stats Card -->
 <p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/x_drxzx_x?theme=dark&font=Baloo%202&ext=heatmap"
-    alt="LeetCode Stats"
-    style="max-width: 100%; height: auto;"
-  />
+  <img src="https://leetcard.jacoblin.cool/x_drxzx_x?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
 
-<!-- LANGUAGES & TOOLS - SPLIT INTO TWO LINES (v & viii) -->
+<!-- LANGUAGES & TOOLS - UPDATED WITH SPRING BOOT + INITIALIZR (v & viii) -->
 ## 🛠️ Languages & Tools
 
-<!-- Line 1: Backend, Core Languages & Databases -->
+<!-- Line 1: Backend, Core Languages & Databases (Postgres removed - 7th icon) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,mysql,postgres,mongodb,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,mysql,mongodb,docker,aws" />
   </a>
 </p>
 
-<!-- Line 2: Frontend, Version Control, IDEs & Platforms -->
+<!-- Line 2: Frontend, Version Control, IDEs & Platforms (Added Eclipse + GitHub) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,git,postman,linux,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=react,git,eclipse,github,postman,linux,vscode,idea" />
   </a>
+</p>
+
+<!-- Line 3: Explicit Spring Boot + Spring Initializr Badges (Added as requested) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Initializr-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Initializr" />
 </p>
 
 ---
@@ -120,14 +106,20 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/22C55E/drxzx7"
-    alt="Ahmad Shuaib's GitHub Contribution Graph"
-    style="max-width: 100%; height: auto;"
-  />
+  <img src="https://ghchart.rshah.org/22C55E/drxzx7" alt="Ahmad Shuaib's GitHub Contribution Graph" style="max-width: 100%; height: auto;" />
 </p>
 
-> If the graph doesn’t load immediately, refresh the README on GitHub after a few minutes. The chart caches based on your commit activity.
+> If the graph doesn't load immediately, refresh the README on GitHub after a few minutes. The chart caches based on your commit activity.
 
 ---
 
+<!-- VISITOR BADGE (x) -->
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/drxzx7/count.svg" alt="visitor badge" />
+</p>
+
+---
+
+🚧 *This README is a living document — I update it as I grow and build more cool stuff!*
