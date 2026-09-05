@@ -16,11 +16,11 @@
 
 I'm a passionate **Backend Developer** who loves crafting clean, robust, and scalable systems. I enjoy diving deep into algorithms, data structures, and system design to solve real-world problems. I've recently started exploring **React.js** to bridge the gap between powerful backends and interactive frontends.
 
-- 🔭 I’m currently working on **Spring Boot Microservices** & RESTful APIs
-- 🌱 I’m exploring **Cloud Native**, **DevOps**, and **React.js**
-- 💬 Ask me about **Java, Spring Boot, C/C++, Python, and DBMS**
-- 🎯 2026 Goals: Contribute more to open-source and build a full-scale SaaS product
-- ⚡ Fun fact: I debug with `print()` and still get goosebumps when `git push` succeeds
+- 🔭 I’m currently working on **Spring Boot Microservices** & RESTful APIs  
+- 🌱 I’m exploring **Cloud Native**, **DevOps**, and **React.js**  
+- 💬 Ask me about **Java, Spring Boot, C/C++, Python, and DBMS**  
+- 🎯 2026 Goals: Contribute more to open-source and build a full-scale SaaS product  
+- ⚡ Fun fact: I debug with `print()` and still get goosebumps when `git push` succeeds  
 
 ---
 
@@ -96,20 +96,37 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- CONTRIBUTION GRAPH (ix) - USING THE MOST RELIABLE THEME -->
+<!-- CONTRIBUTION GRAPH (ix) - MORE RELIABLE + VISIBLE -->
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drxzx7&theme=github&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://ghchart.rshah.org/22C55E/drxzx7"
+    alt="Ahmad Shuaib's GitHub Contribution Graph"
+    style="max-width: 100%; height: auto;"
+  />
 </p>
+
+> If the graph doesn’t load immediately, refresh the README on GitHub after a few minutes. The chart caches based on your commit activity.
 
 ---
 
-<!-- VISITOR BADGE (x) - SWAPPED TO GLITCH.ME FOR 100% RELIABILITY -->
+<!-- VISITOR BADGE (x) - FALLBACK + PRIMARY -->
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/drxzx7/count.svg" alt="visitor badge" />
+  <!-- Primary counter -->
+  <img
+    src="https://komarev.com/profile/drxzx7"
+    alt="Profile views"
+  />
+  <!-- Fallback counter (optional, shows if first fails) -->
+  <br />
+  <img
+    src="https://profile-counter.glitch.me/drxzx7/count.svg"
+    alt="visitor badge fallback"
+    style="margin-top: 8px;"
+  />
 </p>
 
 ---
