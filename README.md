@@ -128,7 +128,22 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
   />
 </p>
 
-
+> If the graph doesn't load immediately, refresh the README on GitHub after a few minutes. The chart caches based on your commit activity.
 
 ---
 
+<!-- VISITOR BADGE (x) - FIXED & VISIBLE -->
+## 👀 Visitor Count
+
+<p align="center">
+  <strong>Profile views:</strong>
+  <br />
+  <img
+    src="https://komarev.com/profile/drxzx7"
+    alt="Profile views"
+  />
+</p>
+
+---
+
+🚧 *This README is a living document — I update it as I grow and build more cool stuff!*
