@@ -24,21 +24,25 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- BADGES : PORTFOLIO + LINKEDIN + LEETCODE + HACKERRANK (iv) -->
+<!-- BADGES : PORTFOLIO + LINKEDIN + LEETCODE + HACKERRANK (iv) - NOW IN BOX ICONS -->
 ## 🔗 Connect & Profiles
 
 <p align="center">
+  <!-- Portfolio (About.me icon) -->
   <a href="https://drxzx7.github.io" target="_blank" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="34" />
+    <img src="https://img.shields.io/badge/-255E63?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio" height="36" />
   </a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ahmad-shuaib-75543037a/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34" />
+    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="36" />
   </a>
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/x_drxzx_x/" target="_blank" title="LeetCode">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" alt="LeetCode" height="34" />
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="36" />
   </a>
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/mssdkkl" target="_blank" title="HackerRank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="34" />
+    <img src="https://img.shields.io/badge/-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" height="36" />
   </a>
 </p>
 
@@ -49,27 +53,21 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- LANGUAGES & TOOLS - UPDATED WITH SPRING BOOT + INITIALIZR (v & viii) -->
+<!-- LANGUAGES & TOOLS - SPLIT INTO TWO LINES (v & viii) -->
 ## 🛠️ Languages & Tools
 
-<!-- Line 1: Backend, Core Languages & Databases (Postgres removed - 7th icon) -->
+<!-- Line 1: Backend, Core Languages & Databases -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,py,c,cpp,mysql,mongodb,docker,aws" />
   </a>
 </p>
 
-<!-- Line 2: Frontend, Version Control, IDEs & Platforms (Added Eclipse + GitHub) -->
+<!-- Line 2: Frontend, Version Control, IDEs & Platforms -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,git,eclipse,github,postman,linux,vscode,idea" />
   </a>
-</p>
-
-<!-- Line 3: Explicit Spring Boot + Spring Initializr Badges (Added as requested) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Initializr-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Initializr" />
 </p>
 
 ---
