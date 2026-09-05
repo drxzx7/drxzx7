@@ -116,16 +116,7 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- CONTRIBUTION GRAPH (ix) -->
-## 📊 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/22C55E/drxzx7"
-    alt="Ahmad Shuaib's GitHub Contribution Graph"
-    style="max-width: 100%; height: auto;"
-  />
-</p>
 
 
 
