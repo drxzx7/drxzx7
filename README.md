@@ -1,6 +1,6 @@
 <!-- INTRO SECTION (i) -->
 <h1 align="center">👋 Hello, I'm Ahmad Shuaib</h1>
-<h3 align="center">Backend Engineer | Spring Boot & Microservices | Problem Solver</h3>
+<h3 align="center">Backend Developer | Spring Boot & Microservices | Problem Solver</h3>
 
 <!-- TYPING ANIMATION BANNER (ii) -->
 <p align="center">
