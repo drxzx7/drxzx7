@@ -100,10 +100,8 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 ---
 
-<!-- GITHUB STATS CARDS (vii) -->
-## 📈 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/drxzx7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drxzx7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drxzx7&layout=compact&langs_count=8&theme=radical" />
@@ -112,8 +110,18 @@ I'm a passionate **Backend Developer** who loves crafting clean, robust, and sca
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drxzx7&theme=radical" alt="GitHub Streak" />
+</p> -->
+<!-- GITHUB STATS CARDS -->
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=drxzx7&theme=radical"
+    alt="GitHub Streak"
+  />
 </p>
 
+---
 ---
 
 
