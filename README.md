@@ -19,7 +19,7 @@
 <!-- ========================== ABOUT ME ========================== -->
 ## 🧑‍💻 About Me
 
-I'm a passionate **Backend Developer** who loves crafting clean, robust, and scalable systems. I enjoy diving deep into algorithms, data structures, and system design to solve real-world problems — and I've recently started exploring **React.js** to bridge the gap between powerful backends and interactive frontends.
+I'm a passionate **Backend Developer** and **3 x Hackathon Semi-Finalist** who loves crafting clean, robust, and scalable systems. I enjoy diving deep into algorithms, data structures, and system design to solve real-world problems — and I've recently started exploring **React.js** to bridge the gap between powerful backends and interactive frontends.
 
 - 🔭 I'm currently working on **Spring Boot Microservices** & RESTful APIs
 - 🌱 I'm exploring **Cloud Native**, **DevOps**, and **React.js**
