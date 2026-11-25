@@ -87,7 +87,7 @@
     <tr>
       <td>🚀 <b>E-Commerce Microservices</b></td>
       <td>Spring Boot · Spring Cloud · MySQL · Docker</td>
-      <td>🔄 In Progress</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td>📊 <b>LeetCode Tracker CLI</b></td>
