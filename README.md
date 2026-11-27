@@ -63,6 +63,22 @@
   </a>
 </p>
 
+<!-- Line 2: Microservices & Messaging -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />
+  </a>
+  <img src="https://img.shields.io/badge/Eureka_Server-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Eureka Server" height="48" />
+  <img src="https://img.shields.io/badge/Zipkin-FE7139?style=for-the-badge&logoColor=white" alt="Zipkin" height="48" />
+</p>
+
+<!-- Line 3: Frontend → Version Control → Utilities → IDEs -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,git,github,postman,linux,vscode,idea,eclipse" alt="Frontend, version control, utilities and IDEs" />
+  </a>
+</p>
+
 <!-- Line 2: Frontend → Version Control → Utilities → IDEs -->
 <p align="center">
   <a href="https://skillicons.dev">
