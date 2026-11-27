@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://drxzx7.github.io" target="_blank" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/aboutdotme/255E63" alt="Portfolio" height="40" />
+    <img src="https://cdn.simpleicons.org/aboutdotme/2DD4BF" alt="Portfolio" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmad-shuaib-75543037a/" target="_blank" title="LinkedIn">
@@ -51,17 +51,6 @@
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/mssdkkl" target="_blank" title="HackerRank">
     <img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="HackerRank" height="40" />
-  </a>
-</p>
----
-
-<!-- ==================== LANGUAGES & TOOLS ==================== -->
-## 🛠️ Languages & Tools
-
-<!-- Line 1: Languages → Framework → Databases → DevOps -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,spring,mysql,mongodb,docker,kubernetes,aws,rabbitmq" alt="Languages, frameworks, databases and DevOps" />
   </a>
 </p>
 
