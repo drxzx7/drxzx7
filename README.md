@@ -60,7 +60,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,spring,mysql,mongodb,docker,aws" alt="Languages, frameworks, databases and DevOps" />
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> <img src="https://img.shields.io/badge/Eureka_Server-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Eureka Server" /> <img src="https://img.shields.io/badge/Zipkin-FE7139?style=for-the-badge" alt="Zipkin" />
   </a>
 </p>
 
@@ -70,7 +69,6 @@
     <img src="https://skillicons.dev/icons?i=react,git,github,postman,linux,vscode,idea,eclipse" alt="Frontend, version control, utilities and IDEs" />
   </a>
 </p>
-
 
 ---
 
