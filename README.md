@@ -67,8 +67,10 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,git,github,postman,linux,vscode,idea,eclipse" alt="Frontend, version control, utilities and IDEs" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,spring,mysql,mongodb,docker,aws,rabbitmq" alt="Languages, frameworks, databases and DevOps" />
   </a>
 </p>
+
 
 ---
 
