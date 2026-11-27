@@ -72,7 +72,7 @@
 
 <!-- Line 3: AI Tools & Deployment -->
 <p align="center">
-  <img src="https://skill-icons.alanreisanjo.workers.dev/icons?i=claudecode,googleantigravity,vercel" alt="Claude, Antigravity and Vercel" />
+  <img src="https://skill-icons.alanreisanjo.workers.dev/icons?i=claude,antigravity,vercel" alt="Claude, Antigravity and Vercel" />
 </p>
 
 ---
