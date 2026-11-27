@@ -70,6 +70,12 @@
   </a>
 </p>
 
+<!-- Line 3: Artificial Intelligence Tools → Claude Code → Antigraviy → Vercel -->
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=claude,antigravity,vercel" alt="Claude, Antigravity, Vercel" />
+  </a>
+</p>
 ---
 
 <!-- ==================== CURRENT PROJECTS ==================== -->
