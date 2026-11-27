@@ -66,7 +66,7 @@
 <!-- Line 2: Frontend → Version Control → Utilities → IDEs -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,git,github,postman,linux,vscode,idea,eclipse" alt="Frontend, version control, utilities and IDEs" />
+    <img src="https://skillicons.dev/icons?i=js,kubernetes,react,git,github,postman,linux,vscode,idea,eclipse" alt="Frontend, version control, utilities and IDEs" />
   </a>
 </p>
 
