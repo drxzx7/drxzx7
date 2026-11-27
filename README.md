@@ -54,6 +54,18 @@
   </a>
 </p>
 
+
+<!-- ==================== LANGUAGES & TOOLS ==================== -->
+## 🛠️ Languages & Tools
+
+
+<!-- Line 1: Languages → Framework → Databases → DevOps -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,spring,mysql,mongodb,docker,aws" alt="Languages, frameworks, databases and DevOps" />
+  </a>
+</p>
+
 <!-- Line 2: Frontend → Version Control → Utilities → IDEs -->
 <p align="center">
   <a href="https://skillicons.dev">
