@@ -70,9 +70,10 @@
   </a>
 </p>
 
+<!-- Line 3: AI Tools & Deployment -->
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=claude,antigravity,vercel" alt="Claude, Antigravity, Vercel" />
+    <img src="https://skillicons.dev/icons?i=claude,antigravity,vercel" alt="Claude, Antigravity and Vercel" />
   </a>
 </p>
 
